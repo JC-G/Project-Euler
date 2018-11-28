@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 70\Problem 70\bin\Debug\Problem 70.exe.config
+F:\Coding\ProjectEuler\Problem 70\Problem 70\bin\Debug\Problem 70.exe
+F:\Coding\ProjectEuler\Problem 70\Problem 70\bin\Debug\Problem 70.pdb
+F:\Coding\ProjectEuler\Problem 70\Problem 70\bin\Debug\Problem 70.xml
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem_70.Resources.resources
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.exe
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.xml
+F:\Coding\ProjectEuler\Problem 70\Problem 70\obj\Debug\Problem 70.pdb

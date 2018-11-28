@@ -1,0 +1,12 @@
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\bin\Release\Problem 8.exe.config
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\bin\Release\Problem 8.exe
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\bin\Release\Problem 8.pdb
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\bin\Release\Problem 8.xml
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.vbprojResolveAssemblyReference.cache
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem_8.Form1.resources
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem_8.Resources.resources
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.vbproj.GenerateResource.Cache
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.exe
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.xml
+F:\Coding\ProjectEuler\_WIP\Problem 8\Problem 8\obj\Release\Problem 8.pdb

@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 22\Problem 22\bin\Debug\Problem 22.exe.config
+F:\Coding\ProjectEuler\Problem 22\Problem 22\bin\Debug\Problem 22.exe
+F:\Coding\ProjectEuler\Problem 22\Problem 22\bin\Debug\Problem 22.pdb
+F:\Coding\ProjectEuler\Problem 22\Problem 22\bin\Debug\Problem 22.xml
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem_22.Resources.resources
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.exe
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.xml
+F:\Coding\ProjectEuler\Problem 22\Problem 22\obj\Debug\Problem 22.pdb

@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 45\Problem 45\bin\Debug\Problem 45.exe.config
+F:\Coding\ProjectEuler\Problem 45\Problem 45\bin\Debug\Problem 45.exe
+F:\Coding\ProjectEuler\Problem 45\Problem 45\bin\Debug\Problem 45.pdb
+F:\Coding\ProjectEuler\Problem 45\Problem 45\bin\Debug\Problem 45.xml
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem_45.Resources.resources
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.exe
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.xml
+F:\Coding\ProjectEuler\Problem 45\Problem 45\obj\Debug\Problem 45.pdb

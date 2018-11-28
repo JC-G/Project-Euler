@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 78\Problem 78\bin\Debug\Problem 78.exe.config
+F:\Coding\ProjectEuler\Problem 78\Problem 78\bin\Debug\Problem 78.exe
+F:\Coding\ProjectEuler\Problem 78\Problem 78\bin\Debug\Problem 78.pdb
+F:\Coding\ProjectEuler\Problem 78\Problem 78\bin\Debug\Problem 78.xml
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem_78.Resources.resources
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.exe
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.xml
+F:\Coding\ProjectEuler\Problem 78\Problem 78\obj\Debug\Problem 78.pdb

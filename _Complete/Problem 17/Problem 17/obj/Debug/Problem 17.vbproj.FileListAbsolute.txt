@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 17\Problem 17\bin\Debug\Problem 17.exe.config
+F:\Coding\ProjectEuler\Problem 17\Problem 17\bin\Debug\Problem 17.exe
+F:\Coding\ProjectEuler\Problem 17\Problem 17\bin\Debug\Problem 17.pdb
+F:\Coding\ProjectEuler\Problem 17\Problem 17\bin\Debug\Problem 17.xml
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem_17.Resources.resources
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.exe
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.xml
+F:\Coding\ProjectEuler\Problem 17\Problem 17\obj\Debug\Problem 17.pdb

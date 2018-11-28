@@ -1,0 +1,10 @@
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\bin\Debug\Problem 10.exe.config
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\bin\Debug\Problem 10.exe
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\bin\Debug\Problem 10.pdb
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\bin\Debug\Problem 10.xml
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem_10.Resources.resources
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem 10.vbproj.GenerateResource.Cache
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem 10.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem 10.exe
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem 10.xml
+F:\Coding\ProjectEuler\_WIP\Problem 10\Problem 10\obj\Debug\Problem 10.pdb

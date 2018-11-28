@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 94\Problem 94\bin\Debug\Problem 94.exe.config
+F:\Coding\ProjectEuler\Problem 94\Problem 94\bin\Debug\Problem 94.exe
+F:\Coding\ProjectEuler\Problem 94\Problem 94\bin\Debug\Problem 94.pdb
+F:\Coding\ProjectEuler\Problem 94\Problem 94\bin\Debug\Problem 94.xml
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem_94.Resources.resources
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.exe
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.xml
+F:\Coding\ProjectEuler\Problem 94\Problem 94\obj\Debug\Problem 94.pdb

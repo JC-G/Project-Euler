@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 20\Problem 20\bin\Debug\Problem 20.exe.config
+F:\Coding\ProjectEuler\Problem 20\Problem 20\bin\Debug\Problem 20.exe
+F:\Coding\ProjectEuler\Problem 20\Problem 20\bin\Debug\Problem 20.pdb
+F:\Coding\ProjectEuler\Problem 20\Problem 20\bin\Debug\Problem 20.xml
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem_20.Resources.resources
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.exe
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.xml
+F:\Coding\ProjectEuler\Problem 20\Problem 20\obj\Debug\Problem 20.pdb

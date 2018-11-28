@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 95\Problem 95\bin\Debug\Problem 95.exe.config
+F:\Coding\ProjectEuler\Problem 95\Problem 95\bin\Debug\Problem 95.exe
+F:\Coding\ProjectEuler\Problem 95\Problem 95\bin\Debug\Problem 95.pdb
+F:\Coding\ProjectEuler\Problem 95\Problem 95\bin\Debug\Problem 95.xml
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem_95.Resources.resources
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.exe
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.xml
+F:\Coding\ProjectEuler\Problem 95\Problem 95\obj\Debug\Problem 95.pdb

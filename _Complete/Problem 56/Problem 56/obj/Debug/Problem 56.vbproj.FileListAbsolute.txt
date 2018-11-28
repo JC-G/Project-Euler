@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 56\Problem 56\bin\Debug\Problem 56.exe.config
+F:\Coding\ProjectEuler\Problem 56\Problem 56\bin\Debug\Problem 56.exe
+F:\Coding\ProjectEuler\Problem 56\Problem 56\bin\Debug\Problem 56.pdb
+F:\Coding\ProjectEuler\Problem 56\Problem 56\bin\Debug\Problem 56.xml
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem_56.Resources.resources
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.exe
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.xml
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.pdb
+F:\Coding\ProjectEuler\Problem 56\Problem 56\obj\Debug\Problem 56.vbprojAssemblyReference.cache

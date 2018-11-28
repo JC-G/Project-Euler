@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 38\Problem 38\bin\Debug\Problem 38.exe.config
+F:\Coding\ProjectEuler\Problem 38\Problem 38\bin\Debug\Problem 38.exe
+F:\Coding\ProjectEuler\Problem 38\Problem 38\bin\Debug\Problem 38.pdb
+F:\Coding\ProjectEuler\Problem 38\Problem 38\bin\Debug\Problem 38.xml
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem_38.Resources.resources
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.exe
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.xml
+F:\Coding\ProjectEuler\Problem 38\Problem 38\obj\Debug\Problem 38.pdb

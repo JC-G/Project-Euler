@@ -1,0 +1,11 @@
+F:\Coding\ProjectEuler\Problem 88\Problem 88\bin\Debug\Problem 88.exe.config
+F:\Coding\ProjectEuler\Problem 88\Problem 88\bin\Debug\Problem 88.exe
+F:\Coding\ProjectEuler\Problem 88\Problem 88\bin\Debug\Problem 88.pdb
+F:\Coding\ProjectEuler\Problem 88\Problem 88\bin\Debug\Problem 88.xml
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.vbprojAssemblyReference.cache
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem_88.Resources.resources
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.exe
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.xml
+F:\Coding\ProjectEuler\Problem 88\Problem 88\obj\Debug\Problem 88.pdb

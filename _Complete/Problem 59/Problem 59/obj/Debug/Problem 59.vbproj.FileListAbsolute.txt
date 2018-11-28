@@ -1,0 +1,10 @@
+F:\Coding\ProjectEuler\Problem 59\Problem 59\bin\Debug\Problem 59.exe.config
+F:\Coding\ProjectEuler\Problem 59\Problem 59\bin\Debug\Problem 59.exe
+F:\Coding\ProjectEuler\Problem 59\Problem 59\bin\Debug\Problem 59.pdb
+F:\Coding\ProjectEuler\Problem 59\Problem 59\bin\Debug\Problem 59.xml
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem_59.Resources.resources
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem 59.vbproj.GenerateResource.cache
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem 59.vbproj.CoreCompileInputs.cache
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem 59.exe
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem 59.xml
+F:\Coding\ProjectEuler\Problem 59\Problem 59\obj\Debug\Problem 59.pdb

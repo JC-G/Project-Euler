@@ -1,0 +1,11 @@
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\bin\Debug\Problem 112.exe.config
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\bin\Debug\Problem 112.exe
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\bin\Debug\Problem 112.pdb
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\bin\Debug\Problem 112.xml
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.vbprojAssemblyReference.cache
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem_112.Resources.resources
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.vbproj.GenerateResource.cache
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.vbproj.CoreCompileInputs.cache
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.exe
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.xml
+C:\Coding\Coding\ProjectEuler\Problem 112\Problem 112\obj\Debug\Problem 112.pdb

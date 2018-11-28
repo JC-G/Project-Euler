@@ -1,0 +1,10 @@
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\bin\Debug\Problem1.exe.config
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.vbprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.Resources.resources
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.vbproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.xml
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\bin\Debug\Problem1.exe
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\bin\Debug\Problem1.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\bin\Debug\Problem1.xml
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.exe
+c:\users\joseph\documents\visual studio 2015\Projects\ProjectEuler\Problem1\Problem1\obj\Debug\Problem1.pdb
